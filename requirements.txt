@@ -1,0 +1,5 @@
+streamlit
+keybert
+sentence-transformers
+transformers
+torch
